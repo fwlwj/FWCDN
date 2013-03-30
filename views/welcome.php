@@ -2,7 +2,7 @@
 <html lang="en"> 
   <head> 
     <meta charset="utf-8"> 
-    <title>SaeLayer CDN</title> 
+    <title>FWLayer CDN</title> 
     <meta name="description" content=""> 
     <meta name="author" content=""> 
     <style> 
@@ -86,7 +86,7 @@ h1.page-header{
   </head> 
   <body> 
     <div id="body"> 
-        <h1 class="page-header">SaeLayer CDN</h1> 
+        <h1 class="page-header">FWLayer CDN</h1> 
         <div id="content"> 
             <blockquote>FWLayerCDN已经成功安装！</blockquote>
             <div class="unit"> 
